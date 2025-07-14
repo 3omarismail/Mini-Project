@@ -1,0 +1,8 @@
+    fastapi[all]
+    uvicorn
+    sqlalchemy
+    mysqlclient
+    passlib[bcrypt]
+    python-jose[cryptography]
+    python-dotenv
+    
